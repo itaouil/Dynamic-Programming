@@ -5,3 +5,4 @@ such as HackerRank, CodeEval, Google Jam or self-implementation of pseudocodes e
 So the implementations in the repository are (more coming soon, of course):
 
 - Rod Cutting Optimisation
+- Matrix-Chain-Product
